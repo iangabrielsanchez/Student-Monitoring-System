@@ -1,0 +1,27 @@
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\bin\Debug\ClassAttendanceMonitoring.exe
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\bin\Debug\ClassAttendanceMonitoring.pdb
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\bin\Debug\ClassAttendanceMonitoring.xml
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.Form1.resources
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.Resources.resources
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.vbproj.GenerateResource.Cache
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.exe
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.xml
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.pdb
+C:\Users\ianga\AppData\Local\Temporary Projects\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.Login.resources
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.exe
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.xml
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.pdb
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\bin\Debug\ClassAttendanceMonitoring.exe
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\bin\Debug\ClassAttendanceMonitoring.pdb
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\bin\Debug\ClassAttendanceMonitoring.xml
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.Form1.resources
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.Login.resources
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.Resources.resources
+C:\Users\ianga\Documents\Visual Studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.vbproj.GenerateResource.Cache
+C:\Users\ianga\documents\visual studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.StudentSearch.resources
+C:\Users\ianga\documents\visual studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.AddStudent.resources
+C:\Users\ianga\documents\visual studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.StudentLogin.resources
+C:\Users\ianga\documents\visual studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.EditStudent.resources
+C:\Users\ianga\documents\visual studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.AttendanceLogs.resources
+C:\Users\ianga\documents\visual studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.vbprojResolveAssemblyReference.cache
+C:\Users\ianga\documents\visual studio 2010\Projects\ClassAttendanceMonitoring\ClassAttendanceMonitoring\obj\x86\Debug\ClassAttendanceMonitoring.Exporting.resources
